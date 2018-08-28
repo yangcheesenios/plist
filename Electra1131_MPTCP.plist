@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Yangcheesen.Electra1131_MPTCP</string>
+				<string>fun.ignition.Electra1131_MPTCP</string>
 				<key>bundle-version</key>
 				<string>420.4.20</string>
 				<key>kind</key>
